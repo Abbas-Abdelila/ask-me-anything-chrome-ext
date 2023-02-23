@@ -6,10 +6,10 @@ Ask any question and getting reply. It uses openai's text-davinci-003 model to g
 ## You can find the package to load on chrome in the build folder
 
 ### Example
-![What is Freudian slip?](./assets/example-freudian-slip.jpg)
+![What is Clear's Law of Recurrence?](./assets/clear-example.png)
 
-## Wanna add it to chrome? 
-To download the extension [click here](/Ask%20me%20anything.crx)
+## Wanna add it to chrome? For now 
+Download the zip [here](./Ask%20me%20anything/) and extract it to a folder then go to [chrome extensions](chrome://extensions), turn `developer mode` ON if it isn't and click on `load unpacked` and select the folder where you extracted the `zip file.` 
 
 ## Getting Started
 
