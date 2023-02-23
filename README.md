@@ -1,5 +1,16 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+## What does the extension do?
+Ask any question and getting reply. It uses openai's text-davinci-003 model to generate answer.
+
+## You can find the package to load on chrome in the build folder
+
+### Example
+![What is Freudian slip?](./assets/example-freudian-slip.jpg)
+
+## Wanna add it to chrome? 
+To download the extension [click here](/Ask%20me%20anything.crx)
+
 ## Getting Started
 
 First, run the development server:
