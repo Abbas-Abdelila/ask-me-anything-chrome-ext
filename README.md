@@ -1,7 +1,7 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## What does the extension do?
-Ask any question and getting reply. It uses openai's text-davinci-003 model to generate answer.
+Ask any question and get answer instantly. It uses openai's text-davinci-003 model to generate the answer.
 
 ## You can find the package to load on chrome in the build folder
 
