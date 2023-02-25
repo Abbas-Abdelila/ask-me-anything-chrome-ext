@@ -6,7 +6,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 
 ### Example
-![What is Clear's Law of Recurrence?](./assets/clear-example.png)
+![What is Clear's Law of Recurrence?](./assets/all-in-example.png)
 
 ## Wanna add it to chrome? For now 
 Download the zip [here](./Ask%20me%20anything/) and extract it to a folder then go to (chrome://extensions), turn `developer mode` ON if it isn't and click on `load unpacked` and select the folder where you extracted the `zip file.` 
